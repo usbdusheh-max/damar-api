@@ -10,12 +10,12 @@ global.AIRich = AIRich;
 
 global.pairingNumber = 213778766932;
 global.owner = [
-  ['212646565333', 'DAMAR-MD', true],
+  ['212646565333', '𝑰𝑴𝑨𝑫✅💕☠️', true],
   ['', 'Owner 2', true],
 ];
 
 global.namebot = 'بوت';
-global.author = 'DAMAR-MD';
+global.author = '𝑰𝑴𝑨𝑫✅💕☠️';
 global.source = 'https://www.facebook.com/profile.php?id=61591783185803';
 
 global.wait = 'Loading... | جاري الانتظار';
